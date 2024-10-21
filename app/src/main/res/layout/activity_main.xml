@@ -8,9 +8,10 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="156dp"
+        android:layout_height="64dp"
+        android:background="#673AB7"
         android:text="Button"
-        tools:layout_editor_absoluteX="161dp"
-        tools:layout_editor_absoluteY="341dp" />
+        tools:layout_editor_absoluteX="127dp"
+        tools:layout_editor_absoluteY="333dp" />
 </android.support.constraint.ConstraintLayout>
