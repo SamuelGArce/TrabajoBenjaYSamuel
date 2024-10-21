@@ -13,4 +13,19 @@
         android:text="Button"
         tools:layout_editor_absoluteX="161dp"
         tools:layout_editor_absoluteY="341dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="157dp"
+        android:layout_marginTop="152dp"
+        android:layout_marginEnd="197dp"
+        android:layout_marginBottom="170dp"
+        android:text="Hola"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>
